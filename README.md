@@ -46,7 +46,7 @@
 	* sudo yum -y install nodejs
 
 	=========== Basic Usage ==============
-	* git clone https://github.com/rrudy0966/instatools
+	* git clone https://github.com/wanayuss/instatools
 	* cd instatools
 	* unzip node_modules.zip
 	* ls
